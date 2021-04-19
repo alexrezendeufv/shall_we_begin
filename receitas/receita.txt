@@ -13,3 +13,6 @@
 - Batata palha e arroz branco para o acompanhamento
 - cozinhe com amor e paciencia  
 - muito bom, aprofeite a refeição. Agora vc pode fazer um strogonoff de frango
+
+depois de fazer atualização em seu repertorio local,
+é só necessário dar 'git push -u órigin main'
